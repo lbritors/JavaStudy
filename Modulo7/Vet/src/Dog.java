@@ -1,3 +1,6 @@
+/**
+ * Classe que define propriedades do cachorro
+ */
 public class Dog {
 
     private int cod;

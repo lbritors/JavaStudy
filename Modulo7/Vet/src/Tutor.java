@@ -1,4 +1,6 @@
-
+/**
+ * Classe que define propriedades do tutor
+ */
 public class Tutor {
 
     private int cod;
