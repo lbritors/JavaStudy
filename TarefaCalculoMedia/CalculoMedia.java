@@ -1,8 +1,10 @@
 import java.util.Scanner;
 
+
 public class CalculoMedia {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+
 
         System.out.println("********Calculand a média********");
 
@@ -21,4 +23,5 @@ public class CalculoMedia {
 
 
     }
+
 }
